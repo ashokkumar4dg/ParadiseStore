@@ -1,0 +1,3 @@
+Mode: built-in image_gen
+Use case: product-mockup. Asset type: square 1024x1024 ecommerce product photograph. One pair of unbranded ivory wireless earbuds seated in an open matching rounded charging case, premium minimal photoreal studio photo at a three-quarter angle. Show the entire case and earbuds centered with generous margins, occupying approximately 65% of frame width. Soft warm-white #F6F5F2 seamless studio background, subtle realistic soft contact shadow, gently diffused lighting, matte ivory finish with restrained highlights. No text, logos, watermark, extra props, or graphics.
+QA: Visually inspected rendered output. Complete open case and pair of ivory earbuds, no logos or text, realistic texture and soft shadow on warm white.
